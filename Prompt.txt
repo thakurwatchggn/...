@@ -1,0 +1,68 @@
+https://maps-generator.com/
+You are an expert UX designer, CRO (conversion rate optimization) specialist, SEO strategist, and senior frontend developer.
+
+Your task is to generate a high-converting watch store designed to rank on Google and convert visitors into booked appointments.
+
+The website must be fully static and deployable on GitHub Pages.
+
+Use:
+HTML5 (index.html)
+TailwindCSS (style.css) 
+Vanilla JavaScript (script.js)
+And generate only these 3 files
+Do NOT use backend code or server frameworks.
+
+The website must load fast, be mobile-first, SEO optimized, and designed for local Google Maps traffic.
+
+----------------------------------------------------
+
+BUSINESS INFORMATION
+Thakar Watch Co.
+Watch store
+
+
+Overview
+Photos
+Directions
+Save
+Share
+Mon 10:30 AM to 9:00 PM
+Tue 10:30 AM to 9:00 PM
+Wed 10:30 AM to 9:00 PM
+Thu 10:30 AM to 9:00 PM
+Fri 10:30 AM to 9:00 PM
+Sat 10:30 AM to 9:00 PM
+Sun 10:30 AM to 9:00 PM
+Shop Number 10, Sector 14 Main Rd, 
+near Nagpal Nursing Home, Market, 
+Sector 14, Gurugram, Haryana 122009
+Owner: Anil
+
+Business Rating:
+5.0 ⭐ (252 Google Reviews)
+
+Phone:
++91 9810279795
+
+
+Hours:
+Open Daily – 10:30 AM to 9:00 PM
+
+Social Links:
+WhatsApp: https://wa.link/vbr6ry
+Instagram: https://www.instagram.com/thakar_watchco
+
+----------------------------------------------------
+
+OUTPUT FILES
+
+Generate complete code:
+
+index.html
+styles.css
+script.js
+
+All files must run directly on GitHub Pages without backend.
+
+
+<iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Shop%20Number%2010,%20Sector%2014%20Main%20Rd,%20near%20Nagpal%20Nursing%20Home,%20Market,%20Sector%2014,%20Gurugram,%20Haryana%20Gurgaon+(Thakar%20Watch%20Co.)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> <a href='https://www.privat-krankenversicherung-vergleich.at/zahnversicherung/'>Zahn-Versicherung</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=3ee32dc8f4f311e66d8152b0a5aadd21c5bf2ea2'></script>
